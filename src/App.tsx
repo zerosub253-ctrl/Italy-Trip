@@ -4,7 +4,6 @@ import {
   Circle, 
   Globe, 
   Printer, 
-  Wallet, 
   Plane, 
   FileText, 
   Package,
